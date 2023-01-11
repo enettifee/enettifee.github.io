@@ -21,7 +21,8 @@ flowchart TD
 	click UXPROD-3897 "https://issues.folio.org/browse/UXPROD-3897" _blank
 	click UXPROD-2635 "https://issues.folio.org/browse/UXPROD-2635" _blank
 	click UXPROD-3653 "https://issues.folio.org/browse/UXPROD-3653" _blank
-	
+	click UXPROD-3860 "https://issues.folio.org/browse/UXPROD-3860" _blank
+	click UXPROD-3928 "https://issues.folio.org/browse/UXPROD-3928" _blank
 
 
 	subgraph "To be decided"
